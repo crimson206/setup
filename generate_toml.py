@@ -245,7 +245,7 @@ dependencies = split_dependencies(dependencies)
 
 # Define the general information of your package
 
-repo_name = module_name = "module_name"
+repo_name = module_name = "setup"
 
 kwargs = Kwargs(
     name="Sisung Kim",
